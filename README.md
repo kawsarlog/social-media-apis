@@ -21,7 +21,7 @@
 
 ## At a Glance
 
-> **11,758** production-ready Social Media APIs for posts, profiles, and engagement across networks.
+> **11,758** production-ready Social Media APIs.
 
 A focused, always-fresh index of Social Media APIs for posts, profiles, and engagement across networks. Every entry is rated, shows real user counts, and is refreshed daily — so you find the right one fast.
 
