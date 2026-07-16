@@ -7,7 +7,7 @@
 [![Stars](https://img.shields.io/github/stars/kawsarlog/social-media-apis?style=for-the-badge&color=8b5cf6)](https://github.com/kawsarlog/social-media-apis/stargazers)
 [![Forks](https://img.shields.io/github/forks/kawsarlog/social-media-apis?style=for-the-badge&color=ec4899)](https://github.com/kawsarlog/social-media-apis/network/members)
 [![Last commit](https://img.shields.io/github/last-commit/kawsarlog/social-media-apis?style=for-the-badge&color=a78bfa)](https://github.com/kawsarlog/social-media-apis/commits/main)
-[![APIs](https://img.shields.io/badge/APIs-11,758-fbbf24?style=for-the-badge)](#)
+[![APIs](https://img.shields.io/badge/APIs-11,799-fbbf24?style=for-the-badge)](#)
 
 <p>
   <a href="#at-a-glance"><b>At a Glance</b></a> &nbsp;•&nbsp;
@@ -21,15 +21,15 @@
 
 ## At a Glance
 
-> **11,758** production-ready Social Media APIs.
+> **11,799** production-ready Social Media APIs.
 
 A focused, always-fresh index of Social Media APIs for posts, profiles, and engagement across networks. Every entry is rated, shows real user counts, and is refreshed daily — so you find the right one fast.
 
 | Metric | Value |
 |--------|-------|
-| **Total APIs** | **11,758** |
+| **Total APIs** | **11,799** |
 | **Categories** | 1 |
-| **Last updated** | 2026-07-15 |
+| **Last updated** | 2026-07-16 |
 | **Update cadence** | Daily, automated |
 
 ## The Categories
@@ -38,7 +38,7 @@ A focused, always-fresh index of Social Media APIs for posts, profiles, and enga
   <tr>
     <td width="100%" valign="top">
       <h3>Social Media</h3>
-      <p><strong>11,758 APIs</strong></p>
+      <p><strong>11,799 APIs</strong></p>
       <p>Posts, profiles, and engagement data across major social networks.</p>
       <p><a href="./Social_media/"><strong>Open Social Media &rarr;</strong></a></p>
     </td>
@@ -55,7 +55,7 @@ A focused, always-fresh index of Social Media APIs for posts, profiles, and enga
 ## Explore the Stack
 
 <details open>
-<summary><strong>Social Media — 11,758 APIs</strong></summary>
+<summary><strong>Social Media — 11,799 APIs</strong></summary>
 
 Posts, profiles, and engagement data across major social networks.
 
@@ -95,7 +95,7 @@ Posts, profiles, and engagement data across major social networks.
 
 <div align="center">
 
-**11,758 APIs** across **1 categories** — updated 2026-07-15
+**11,799 APIs** across **1 categories** — updated 2026-07-16
 <br /><sub>If this saved you time, a star helps others find it.</sub>
 
 </div>
